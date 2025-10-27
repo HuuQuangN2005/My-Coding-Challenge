@@ -3,6 +3,10 @@
 - Hello!! My name is Nguyen Huu Quang, I am currently a third-year student at Ho Chi Minh Open University (HCMOU).
 - Regarding challenges, I will try to explore and solve **at least 2 problems on Codeforces each day**.
 
+## Codeforces Profile
+
+You can view my Codeforces profile here: [hqn2005](https://codeforces.com/profile/hqn2005)
+
 ## Purpose
 
 This repository is intended to track my progress and solutions for competitive programming problems, mainly from Codeforces.
